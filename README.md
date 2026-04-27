@@ -26,9 +26,9 @@ A aplicação é tematizada com a série *The Office*, trazendo posts e stories 
 
 ## 📽️ Demonstração
 
-![Demonstração do Projeto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm93amRyeXN4bm93amRyeXN4bm93amRyeXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxo78tA6fS0/giphy.gif)
 
- `![Preview](./public/seu-video.gif)`.
+
+ ![Preview](./public/GravaodeTela2026-04-26203455-ezgif.com-video-to-gif-converter.mp4)
 
 ---
 
