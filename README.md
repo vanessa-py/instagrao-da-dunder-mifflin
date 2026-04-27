@@ -1,16 +1,45 @@
-# React + Vite
+# 📸 Instagram Clone - The Office Edition
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um clone da interface desktop do Instagram, desenvolvido para praticar conceitos avançados de **React.js**, **CSS Grid/Flexbox** e **Componentização**. 
 
-Currently, two official plugins are available:
+A aplicação é tematizada com a série *The Office*, trazendo posts e stories dos funcionários da Dunder Mifflin.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Tecnologias
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js** (Vite)
+- **Lucide React** (Ícones)
+- **CSS3** (Estilização Customizada)
+- **Vercel** (Deploy e Hospedagem)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades e Ajustes Técnicos
+
+- **Interface Fiel:** Recriação da Sidebar, Feed e Stories.
+- **Componente Direct:** Janela de mensagens flutuante (popup) com posicionamento fixo.
+- **Interatividade:** - Efeito de hover nos Stories com expansão suave.
+- **Deploy Automático:** Configurado via GitHub + Vercel.
+
+---
+
+## 📽️ Demonstração
+
+![Demonstração do Projeto](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm93amRyeXN4bm93amRyeXN4bm93amRyeXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxo78tA6fS0/giphy.gif)
+
+ `![Preview](./public/seu-video.gif)`.
+
+---
+
+## 🛠️ Como rodar o projeto localmente
+
+```bash
+# Clone o repositório
+git clone [https://github.com/SEU_USUARIO/instagram-clone.git](https://github.com/SEU_USUARIO/instagram-clone.git)
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm run dev
