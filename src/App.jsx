@@ -5,7 +5,7 @@ import {
 } from 'lucide-react';
 import "./App.css";
 import logoinstagrao from "./assets/logo.jpg";
-import avatarJim from "./assets/avatarJim.png";
+import AvatarJim from "./assets/AvatarJim.png";
 
 const Sidebar = () => {
   return (
@@ -170,7 +170,7 @@ export default function App() {
 
           <Post
             usuario="Jim Halpert"
-            avatar={avatarJim}
+            avatar={AvatarJim}
             verificado={true}
             imagem="https://i.pinimg.com/736x/c7/9c/fb/c79cfb4bd66321a52abd0fe2e2a228a2.jpg"
             legenda="Não sei o que postar"
