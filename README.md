@@ -28,7 +28,7 @@ A aplicação é tematizada com a série *The Office*, trazendo posts e stories 
 
 
 
- ![Preview](./public/GravaodeTela2026-04-26203455-ezgif.com-video-to-gif-converter.mp4)
+ ![Preview](./public/demo.gif)
 
 ---
 
